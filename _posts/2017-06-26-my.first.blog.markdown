@@ -1,0 +1,10 @@
+---
+layout: post
+title:  My first blog
+author: Pan Zaiyu
+date:   2017-6-26
+description: This is my first blog.    
+---
+
+This is my first blog. I'm going to make a personal blog website. This blog is used to train how to post a blog.
+Hope to hack this project.
