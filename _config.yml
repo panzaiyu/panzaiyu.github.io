@@ -3,6 +3,7 @@ author: 潘再余
 owner_name: panzaiyu
 repository_name: panzaiyu.github.io
 description: Pan's personal homepage.
+home_url: https://panzaiyu.github.io/
 owner_url: https://github.com/panzaiyu
 repository_url: https://github.com/panzaiyu/panzaiyu.github.io
 baseurl: ""
