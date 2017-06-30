@@ -1,11 +1,7 @@
-title: Pan Zaiyu's Blogs
+title: 学而未止，生而不息
 author: 潘再余
-owner_name: panzaiyu
-repository_name: panzaiyu.github.io
-description: Pan's personal homepage.
-home_url: https://panzaiyu.github.io/
-owner_url: https://github.com/panzaiyu
-repository_url: https://github.com/panzaiyu/panzaiyu.github.io
+repository: panzaiyu/panzaiyu.github.io
+description: 这是潘再余的个人网站
 baseurl: ""
 google_analytics:
 theme: 

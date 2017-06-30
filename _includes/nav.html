@@ -1,0 +1,12 @@
+<!-- Navigation -->
+
+<section class="page-header">
+    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">{{ site.author | default: site.github.owner_name }}</h2>
+    
+    {% if site.github.is_project_page %}
+        <a href="http://127.0.0.1:4000/" class="btn">Home</a>
+    {% else %}
+        <a href="{{ site.github.url }}" class="btn">Home</a>
+    {% endif %}
+</section>
