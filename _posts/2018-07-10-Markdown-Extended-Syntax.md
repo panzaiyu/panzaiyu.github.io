@@ -215,11 +215,11 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 	http://www.example.com
 
-上面的URL会自动转换为链接：
+上面的URL会自动转换为链接（可能不支持）：
 
 http://www.example.com
 
-###禁用自动URL链接
+### 禁用自动URL链接
 
 如果你不想一个URL被自动链接，你可以通过用代号符`` ` ``将URL标记为代码来移除链接。
 
